@@ -6,6 +6,10 @@
     font-family: "Poppins", sans-serif;
 }
 
+.link1 {
+    color: white;
+    text-decoration: none;
+}
 body {
     background-image: url(NewHeader.png);
     background-repeat: no-repeat;
